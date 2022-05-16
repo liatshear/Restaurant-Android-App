@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BONAPP</string>
+    <string name="drinks">סודה</string>
+    <string name="bonapp">בתאבון</string>
+    <string name="pizza">פיצה</string>
+    <string name="coffee">קפה</string>
+    <string name="icecream">גלידה</string>
+    <string name="welcome">ברוכים הבאים לתיאבון</string>
+    <string name="reserve">מושבים מילואים</string>
+    <string name="vegan">טִבעוֹנִי</string>
+    <string name="numSeats">מספר מושבים</string>
+    <string name="sodaDes">הרווה את צימאונך עם הסודה המרעננת והטעימה שלנו המיוצרת בבית. בציפוי לימון טרי ונענע</string>
+    <string name="coffeeDes">חם חם טעים בבית קפה. עשוי עם שעועית מקולומביה והאלפים הצרפתיים.</string>
+    <string name="iceDes">תהנו מהקיץ עם וניל, שוקולד או תות טעים     גלידה שמנת עם תרמילי וניל טריים והיביסקוס</string>
+    <string name="pizzaDes">הטעימות הגבינה הפריכה שלנו של פיצה. לא תצטער על הפינוק המענג הזה.</string>
+    <string name="returnTo">לחזור לתפריט</string>
+    <string name="makeR">לבצע הזמנה</string>
+    <string name="resDet">פרטי הזמנה</string>
+    <string name="cash">כסף מזומן</string>
+    <string name="card">כרטיס אשראי</string>
+    <string name="dialogTitle">פרטי הזמנה</string>
+    <string name="reservedFor">הזמנה מוזמנת עבור</string>
+    <string name="people">אֲנָשִׁים</string>
+    <string name="oneP">אנא בחר אמצעי תשלום אחד</string>
+    <string name="payCard">משלמים בכרטיס אשראי</string>
+    <string name="payCash">משלמים במזומן</string>
+    <string name="notV">לא טבעוני</string>
+</resources>

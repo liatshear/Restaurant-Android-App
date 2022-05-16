@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">BONAPP</string>
+    <string name="bonapp">Bon APPetit</string>
+    <string name="drinks">Soda</string>
+    <string name="pizza">Pizza</string>
+    <string name="coffee">Coffee</string>
+    <string name="icecream">IceCream</string>
+    <string name="welcome">Welcome to BonApp</string>
+    <string name="reserve">Reserve Seats</string>
+    <string name="vegan">Vegan</string>
+    <string name="numSeats">Number of seats?</string>
+    <string name="sodaDes">Quench your thirst with our delicious refreshing soda made in house. Topped with fresh lemon and mint</string>
+    <string name="coffeeDes">"hot warm delicious in house coffee. Made with beans from Columbia and the French Alps. "</string>
+    <string name="iceDes">Enjoy the summer with a delicious vanilla, chocolate or strawberry
+    creamy ice cream with fresh vanilla and hibiscus pods</string>
+    <string name="pizzaDes">Our crispy cheesy deliciousness of a pizza. You won\'t regret this delectable treat.</string>
+    <string name="pizzaPrice" translatable="false">6oNis</string>
+    <string name="coffeePrice" translatable="false">12Nis</string>
+    <string name="icePrice" translatable="false">14Nis</string>
+    <string name="sodaPrice" translatable="false">10Nis</string>
+    <string name="returnTo">Return to Menu</string>
+    <string name="makeR">Make a Reservation</string>
+    <string name="resDet">Reservation Details</string>
+    <string name="cash">Cash</string>
+    <string name="card">Credit Card</string>
+    <string name="dialogTitle">Reservation Details</string>
+    <string name="reservedFor">Reservation booked for</string>
+    <string name="people">people</string>
+    <string name="oneP">Please select one payment method</string>
+    <string name="payCard">Paying with credit card</string>
+    <string name="payCash">Paying with cash</string>
+    <string name="notV">Not Vegan</string>
+
+</resources>
